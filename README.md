@@ -10,7 +10,6 @@ This repository contains notebooks for two workshops designed to introduce new c
 
 
 2. **Hands of Pandas:** This workshop was developed by [Stef Molin](https://github.com/stefmolin/pandas-workshop) and provides users with an interactive exploration of Pandas - a third party Python package used extensively in data science. Each section contains exercises, which can be completed in the `workbook.ipynb` notebook. The course is split across four notebooks:
-
 * `1-getting_started_with_pandas.ipynb` introduces the idea of a *DataFrame* and explores some of the ways we can interact with them. 
 * `2-data_wrangling.ipynb` looks at how we can clean, structure and manipulate dataframes using Pandas built in methods.
 * `3-data_visualization.ipynb` explores the different ways we can visualize our datasets using Pandas.
