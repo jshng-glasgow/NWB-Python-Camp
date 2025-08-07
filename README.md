@@ -10,10 +10,10 @@ This repository contains notebooks for two workshops designed to introduce new c
 
 
 2. **Hands of Pandas:** This workshop was developed by [Stef Molin](https://github.com/stefmolin/pandas-workshop) and provides users with an interactive exploration of Pandas - a third party Python package used extensively in data science. Each section contains exercises, which can be completed in the `workbook.ipynb` notebook. The course is split across four notebooks:
-* `1-getting_started_with_pandas.ipynb` introduces the idea of a *DataFrame* and explores some of the ways we can interact with them. 
-* `2-data_wrangling.ipynb` looks at how we can clean, structure and manipulate dataframes using Pandas built in methods.
-* `3-data_visualization.ipynb` explores the different ways we can visualize our datasets using Pandas.
-* `4-hands_on_data_analysis.ipynb` provides a mini data analysis project for users to try out their skills. 
+    * `1-getting_started_with_pandas.ipynb` introduces the idea of a *DataFrame* and explores some of the ways we can interact with them. 
+    * `2-data_wrangling.ipynb` looks at how we can clean, structure and manipulate dataframes using Pandas built in methods.
+    * `3-data_visualization.ipynb` explores the different ways we can visualize our datasets using Pandas.
+    * `4-hands_on_data_analysis.ipynb` provides a mini data analysis project for users to try out their skills. 
 
 
 **NOTES**:  `0-check_your_env.ipynb` should be run initially to check your setup. The code in `check_env.py` is required for this check to work, as is the file `environment.yml` - don't make any changes to these files!
